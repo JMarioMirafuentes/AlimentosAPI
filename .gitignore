@@ -1,0 +1,45 @@
+# Archivos y carpetas de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.py.class
+
+# Entornos virtuales
+.env
+venv/
+.venv/
+env/
+ENV/
+
+# Archivos de configuración y secretos
+*.env
+*.ini
+*.cfg
+*.local
+config.py
+
+# Base de datos SQLite
+*.db
+*.sqlite3
+
+# Archivos generados por el editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Archivos de compilación
+build/
+dist/
+*.egg-info/
+
+# Archivos del frontend
+node_modules/
+dist/
+package-lock.json
+yarn.lock
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
